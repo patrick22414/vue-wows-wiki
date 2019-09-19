@@ -25,8 +25,13 @@ def list_ship_types() -> List[str]:
 def fetch_ship_html(use_cache=True):
     for n, fn in zip(*list_nations()):
         for t in list_ship_types():
-            with open_data("ships", n, t, mode="r") as fo:
-                data_ships = json.load(fo)
+            try:
+                # Open the data-ships-*-*.json file if found
+                with open_data("ships", n, t, mode="r") as fo:
+                    data_ships = json.load(fo)
+            except FileNotFoundError:
+                # Some nations may not some types of ship, such as U.S.S.R. CV
+                continue
 
             for ship in data_ships:
                 name = ship["name"]
@@ -69,4 +74,6 @@ def parse_ship_detail(ship: Dict[str, str]):
 
 
 if __name__ == '__main__':
-    parse_ship_detail({"name": "Worcester"})
+    set_proxy()
+    fetch_ship_html()
+    # parse_ship_detail({"name": "Worcester"})

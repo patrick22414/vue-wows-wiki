@@ -40,25 +40,71 @@ def fetch_ship_html(use_cache=True):
                 html_filename = get_ship_html_name(name)
 
                 # Log something like "U.S.A. DD"
-                log_tag = f"{fn} {t.upper()}"
+                log_prefix = f"{fn} {t.upper()}"
 
                 # Skip fetch if the cache exists
                 if use_cache:
                     try:
                         with open_cache(html_filename, mode="r") as fo:
-                            log("Skipping", log_tag, name)
+                            log("Skipping", log_prefix, name)
                         continue
                     except FileNotFoundError:
                         pass
 
-                log("Fetching", log_tag, name)
+                log("Fetching", log_prefix, name)
                 resp = requests.get(url)
 
                 if resp.ok:
-                    soup: Tag = BeautifulSoup(resp.content, "html.parser")
+                    soup = BeautifulSoup(resp.content, "html.parser")
 
                     with open_cache(html_filename, mode="w") as fo:
                         fo.write(soup.prettify())
+
+
+def build_ship_modules(soup: BeautifulSoup) -> Dict:
+    modules = {
+        "mainBattery": [],
+        "hull"       : [],
+        "torpedoes"  : [],
+        "fireControl": [],
+        "engine"     : [],
+    }
+
+    tables: List[Tag] = soup.select(".t-modules")
+
+    for table in tables:
+        title = table.find("a").get("href")
+        table_rows: List[Tag] = table.select("tr")[1:]
+        if title == "Main Battery":
+            for tr in table_rows:
+                entries = list(tr.stripped_strings)
+                modules["mainBattery"].append({
+                    "title"   : entries[0],
+                    "turnTime": entries[2],
+                    "heAlpha" : entries[4],
+                    "apAlpha" : entries[6],
+                })
+        elif title == "Hull":
+            for tr in table_rows:
+                entries = list(tr.stripped_strings)
+                modules["mainBattery"].append({
+                    "title"    : entries[0],
+                    "hitPoints": entries[1],
+                })
+        elif title == "Torpedoes":
+            pass
+        else:
+            raise NotImplementedError
+
+    return modules
+
+
+def build_ship_upgrades():
+    pass
+
+
+def build_ship_consumables():
+    pass
 
 
 def parse_ship_detail(ship: Dict[str, str]):

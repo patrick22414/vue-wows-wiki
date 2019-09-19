@@ -68,12 +68,38 @@ def parse_ship_detail(ship: Dict[str, str]):
     with open_cache(html_filename, mode="r") as fo:
         soup = BeautifulSoup(fo.read(), "html.parser")
 
-    switcher_divs = soup.select(".topStockSwitcher")
+    modules_table = soup.select(".t-modules")
 
-    print(len(switcher_divs))
+    modules = {}
+    for module_table in modules_table:
+        a_title: Tag = module_table.find("a")
+        module_tr = module_table.select("tr")[1:]
+
+        module_type = a_title.get("title")
+        module_variants = [
+            next(mtr.find("td").stripped_strings) for mtr in module_tr
+        ]
+
+        modules[module_type] = module_variants
+
+    print(modules)
+
+
+def make_ship_details_data():
+    for n, fn in zip(*list_nations()):
+        for t in list_ship_types():
+            try:
+                # Open the data-ships-*-*.json file if found
+                with open_data("ships", n, t, mode="r") as fo:
+                    data_ships = json.load(fo)
+            except FileNotFoundError:
+                # Some nations may not some types of ship, such as U.S.S.R. CV
+                continue
+
+            for ship in data_ships:
+                parse_ship_detail(ship)
+                break
 
 
 if __name__ == '__main__':
-    set_proxy()
-    fetch_ship_html()
-    # parse_ship_detail({"name": "Worcester"})
+    make_ship_details_data()

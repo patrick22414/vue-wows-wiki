@@ -56,7 +56,7 @@ def make_data_nations():
     ]
 
     with open_data("nations", mode="w") as fo:
-        json.dump(data_nations, fo, indent=4)
+        json.dump(data_nations, fo, indent=2)
 
 
 if __name__ == '__main__':

@@ -23,6 +23,22 @@ def log(verb, *args):
     print(verb, *args)
 
 
+def _open(filename: str, mode: str) -> IO:
+    # Enforcing UTF-8
+    if "b" in mode:
+        encoding = None
+    else:
+        encoding = "utf-8"
+
+    # Enforcing LF line ending
+    if "w" in mode:
+        newline = "\n"
+    else:
+        newline = None
+
+    return open(filename, mode, encoding=encoding, newline=newline)
+
+
 def open_cache(filename: str, *, mode: str) -> IO:
     """Open a file in the cache folder"""
     ext = path.splitext(filename)[1][1:]
@@ -35,7 +51,7 @@ def open_cache(filename: str, *, mode: str) -> IO:
 
     log("Opening", filename)
 
-    return open(filename, mode, encoding="utf-8")
+    return _open(filename, mode)
 
 
 def open_data(*args, mode: str) -> IO:
@@ -49,7 +65,7 @@ def open_data(*args, mode: str) -> IO:
 
     log("Opening", filename)
 
-    return open(filename, mode, encoding="utf-8")
+    return _open(filename, mode)
 
 
 def set_proxy():

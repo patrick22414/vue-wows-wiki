@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <Header></Header>
-    <GridWrapper></GridWrapper>
+    <Header />
+    <GridWrapper />
   </div>
 </template>
 
@@ -10,11 +10,11 @@
   import GridWrapper from "./components/GridWrapper";
 
   export default {
-    name: "app",
+    name: "App",
     components: {
       Header,
-      GridWrapper
-    }
+      GridWrapper,
+    },
   };
 </script>
 

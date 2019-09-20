@@ -1,26 +1,18 @@
 <template>
   <div class="nations-wrapper">
-    <div class="nation-selector" v-for="n in nations" v-bind:key="n.name">{{n.fullName}}</div>
+    <div v-for="n in nations" :key="n.name" class="nation-selector">{{ n.full_name }}</div>
   </div>
 </template>
 
 <script>
+  import dataNations from "../../data/data-nations.json";
+
   export default {
     data() {
       return {
-        nations: [
-          { name: "usa", fullName: "U.S.A." },
-          { name: "japan", fullName: "Japan" },
-          { name: "uk", fullName: "U.K." },
-          { name: "france", fullName: "France" },
-          { name: "germany", fullName: "Germany" },
-          { name: "ussr", fullName: "U.S.S.R." },
-          { name: "panasia", fullName: "Pan-Asia" },
-          { name: "paneurope", fullName: "Pan-Europe" },
-          { name: "panamerica", fullName: "Pan-America" }
-        ]
+        nations: dataNations,
       };
-    }
+    },
   };
 </script>
 

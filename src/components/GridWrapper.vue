@@ -1,6 +1,6 @@
 <template>
   <div class="grid-wrpper">
-    <NationsWrapper></NationsWrapper>
+    <NationsWrapper />
   </div>
 </template>
 <script>

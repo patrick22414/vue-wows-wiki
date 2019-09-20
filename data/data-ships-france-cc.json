@@ -1,54 +1,54 @@
 [
-    {
-        "name": "Bougainville",
-        "url": "http://wiki.wargaming.net/en/Ship:Bougainville"
-    },
-    {
-        "name": "Jurien de la Gravière",
-        "url": "http://wiki.wargaming.net/en/Ship:Jurien_de_la_Gravi%C3%A8re"
-    },
-    {
-        "name": "Friant",
-        "url": "http://wiki.wargaming.net/en/Ship:Friant"
-    },
-    {
-        "name": "Duguay-Trouin",
-        "url": "http://wiki.wargaming.net/en/Ship:Duguay-Trouin"
-    },
-    {
-        "name": "Émile Bertin",
-        "url": "http://wiki.wargaming.net/en/Ship:%C3%89mile_Bertin"
-    },
-    {
-        "name": "La Galissonnière",
-        "url": "http://wiki.wargaming.net/en/Ship:La_Galissonni%C3%A8re"
-    },
-    {
-        "name": "De Grasse",
-        "url": "http://wiki.wargaming.net/en/Ship:De_Grasse"
-    },
-    {
-        "name": "Algérie",
-        "url": "http://wiki.wargaming.net/en/Ship:Alg%C3%A9rie"
-    },
-    {
-        "name": "Charles Martel",
-        "url": "http://wiki.wargaming.net/en/Ship:Charles_Martel"
-    },
-    {
-        "name": "Bayard",
-        "url": "http://wiki.wargaming.net/en/Ship:Bayard"
-    },
-    {
-        "name": "Saint-Louis",
-        "url": "http://wiki.wargaming.net/en/Ship:Saint-Louis"
-    },
-    {
-        "name": "Henri IV",
-        "url": "http://wiki.wargaming.net/en/Ship:Henri_IV"
-    },
-    {
-        "name": "Colbert",
-        "url": "http://wiki.wargaming.net/en/Ship:Colbert"
-    }
+  {
+    "name": "Bougainville",
+    "url": "http://wiki.wargaming.net/en/Ship:Bougainville"
+  },
+  {
+    "name": "Jurien de la Gravière",
+    "url": "http://wiki.wargaming.net/en/Ship:Jurien_de_la_Gravi%C3%A8re"
+  },
+  {
+    "name": "Friant",
+    "url": "http://wiki.wargaming.net/en/Ship:Friant"
+  },
+  {
+    "name": "Duguay-Trouin",
+    "url": "http://wiki.wargaming.net/en/Ship:Duguay-Trouin"
+  },
+  {
+    "name": "Émile Bertin",
+    "url": "http://wiki.wargaming.net/en/Ship:%C3%89mile_Bertin"
+  },
+  {
+    "name": "La Galissonnière",
+    "url": "http://wiki.wargaming.net/en/Ship:La_Galissonni%C3%A8re"
+  },
+  {
+    "name": "De Grasse",
+    "url": "http://wiki.wargaming.net/en/Ship:De_Grasse"
+  },
+  {
+    "name": "Algérie",
+    "url": "http://wiki.wargaming.net/en/Ship:Alg%C3%A9rie"
+  },
+  {
+    "name": "Charles Martel",
+    "url": "http://wiki.wargaming.net/en/Ship:Charles_Martel"
+  },
+  {
+    "name": "Bayard",
+    "url": "http://wiki.wargaming.net/en/Ship:Bayard"
+  },
+  {
+    "name": "Saint-Louis",
+    "url": "http://wiki.wargaming.net/en/Ship:Saint-Louis"
+  },
+  {
+    "name": "Henri IV",
+    "url": "http://wiki.wargaming.net/en/Ship:Henri_IV"
+  },
+  {
+    "name": "Colbert",
+    "url": "http://wiki.wargaming.net/en/Ship:Colbert"
+  }
 ]

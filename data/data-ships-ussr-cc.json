@@ -1,98 +1,98 @@
 [
-    {
-        "name": "Orlan",
-        "url": "http://wiki.wargaming.net/en/Ship:Orlan"
-    },
-    {
-        "name": "Diana",
-        "url": "http://wiki.wargaming.net/en/Ship:Diana"
-    },
-    {
-        "name": "Diana Lima",
-        "url": "http://wiki.wargaming.net/en/Ship:Diana_Lima"
-    },
-    {
-        "name": "Novik",
-        "url": "http://wiki.wargaming.net/en/Ship:Novik"
-    },
-    {
-        "name": "Aurora",
-        "url": "http://wiki.wargaming.net/en/Ship:Aurora"
-    },
-    {
-        "name": "Bogatyr",
-        "url": "http://wiki.wargaming.net/en/Ship:Bogatyr"
-    },
-    {
-        "name": "Oleg",
-        "url": "http://wiki.wargaming.net/en/Ship:Oleg"
-    },
-    {
-        "name": "Varyag",
-        "url": "http://wiki.wargaming.net/en/Ship:Varyag"
-    },
-    {
-        "name": "Svietlana",
-        "url": "http://wiki.wargaming.net/en/Ship:Svietlana"
-    },
-    {
-        "name": "Murmansk",
-        "url": "http://wiki.wargaming.net/en/Ship:Murmansk"
-    },
-    {
-        "name": "Kirov",
-        "url": "http://wiki.wargaming.net/en/Ship:Kirov"
-    },
-    {
-        "name": "Krasny Krym",
-        "url": "http://wiki.wargaming.net/en/Ship:Krasny_Krym"
-    },
-    {
-        "name": "Budyonny",
-        "url": "http://wiki.wargaming.net/en/Ship:Budyonny"
-    },
-    {
-        "name": "Molotov",
-        "url": "http://wiki.wargaming.net/en/Ship:Molotov"
-    },
-    {
-        "name": "Admiral Makarov",
-        "url": "http://wiki.wargaming.net/en/Ship:Admiral_Makarov"
-    },
-    {
-        "name": "Shchors",
-        "url": "http://wiki.wargaming.net/en/Ship:Shchors"
-    },
-    {
-        "name": "Lazo",
-        "url": "http://wiki.wargaming.net/en/Ship:Lazo"
-    },
-    {
-        "name": "Chapayev",
-        "url": "http://wiki.wargaming.net/en/Ship:Chapayev"
-    },
-    {
-        "name": "Mikhail Kutuzov",
-        "url": "http://wiki.wargaming.net/en/Ship:Mikhail_Kutuzov"
-    },
-    {
-        "name": "Dmitri Donskoi",
-        "url": "http://wiki.wargaming.net/en/Ship:Dmitri_Donskoi"
-    },
-    {
-        "name": "Kronshtadt",
-        "url": "http://wiki.wargaming.net/en/Ship:Kronshtadt"
-    },
-    {
-        "name": "Moskva",
-        "url": "http://wiki.wargaming.net/en/Ship:Moskva"
-    },
-    {
-        "name": "Stalingrad",
-        "url": "http://wiki.wargaming.net/en/Ship:Stalingrad"
-    },
-    {
-        "name": "Smolensk",
-        "url": "http://wiki.wargaming.net/en/Ship:Smolensk"
-    }
+  {
+    "name": "Orlan",
+    "url": "http://wiki.wargaming.net/en/Ship:Orlan"
+  },
+  {
+    "name": "Diana",
+    "url": "http://wiki.wargaming.net/en/Ship:Diana"
+  },
+  {
+    "name": "Diana Lima",
+    "url": "http://wiki.wargaming.net/en/Ship:Diana_Lima"
+  },
+  {
+    "name": "Novik",
+    "url": "http://wiki.wargaming.net/en/Ship:Novik"
+  },
+  {
+    "name": "Aurora",
+    "url": "http://wiki.wargaming.net/en/Ship:Aurora"
+  },
+  {
+    "name": "Bogatyr",
+    "url": "http://wiki.wargaming.net/en/Ship:Bogatyr"
+  },
+  {
+    "name": "Oleg",
+    "url": "http://wiki.wargaming.net/en/Ship:Oleg"
+  },
+  {
+    "name": "Varyag",
+    "url": "http://wiki.wargaming.net/en/Ship:Varyag"
+  },
+  {
+    "name": "Svietlana",
+    "url": "http://wiki.wargaming.net/en/Ship:Svietlana"
+  },
+  {
+    "name": "Murmansk",
+    "url": "http://wiki.wargaming.net/en/Ship:Murmansk"
+  },
+  {
+    "name": "Kirov",
+    "url": "http://wiki.wargaming.net/en/Ship:Kirov"
+  },
+  {
+    "name": "Krasny Krym",
+    "url": "http://wiki.wargaming.net/en/Ship:Krasny_Krym"
+  },
+  {
+    "name": "Budyonny",
+    "url": "http://wiki.wargaming.net/en/Ship:Budyonny"
+  },
+  {
+    "name": "Molotov",
+    "url": "http://wiki.wargaming.net/en/Ship:Molotov"
+  },
+  {
+    "name": "Admiral Makarov",
+    "url": "http://wiki.wargaming.net/en/Ship:Admiral_Makarov"
+  },
+  {
+    "name": "Shchors",
+    "url": "http://wiki.wargaming.net/en/Ship:Shchors"
+  },
+  {
+    "name": "Lazo",
+    "url": "http://wiki.wargaming.net/en/Ship:Lazo"
+  },
+  {
+    "name": "Chapayev",
+    "url": "http://wiki.wargaming.net/en/Ship:Chapayev"
+  },
+  {
+    "name": "Mikhail Kutuzov",
+    "url": "http://wiki.wargaming.net/en/Ship:Mikhail_Kutuzov"
+  },
+  {
+    "name": "Dmitri Donskoi",
+    "url": "http://wiki.wargaming.net/en/Ship:Dmitri_Donskoi"
+  },
+  {
+    "name": "Kronshtadt",
+    "url": "http://wiki.wargaming.net/en/Ship:Kronshtadt"
+  },
+  {
+    "name": "Moskva",
+    "url": "http://wiki.wargaming.net/en/Ship:Moskva"
+  },
+  {
+    "name": "Stalingrad",
+    "url": "http://wiki.wargaming.net/en/Ship:Stalingrad"
+  },
+  {
+    "name": "Smolensk",
+    "url": "http://wiki.wargaming.net/en/Ship:Smolensk"
+  }
 ]

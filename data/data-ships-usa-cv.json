@@ -1,26 +1,26 @@
 [
-    {
-        "name": "Langley",
-        "url": "http://wiki.wargaming.net/en/Ship:Langley"
-    },
-    {
-        "name": "Ranger",
-        "url": "http://wiki.wargaming.net/en/Ship:Ranger"
-    },
-    {
-        "name": "Lexington",
-        "url": "http://wiki.wargaming.net/en/Ship:Lexington"
-    },
-    {
-        "name": "Enterprise",
-        "url": "http://wiki.wargaming.net/en/Ship:Enterprise"
-    },
-    {
-        "name": "Saipan",
-        "url": "http://wiki.wargaming.net/en/Ship:Saipan"
-    },
-    {
-        "name": "Midway",
-        "url": "http://wiki.wargaming.net/en/Ship:Midway"
-    }
+  {
+    "name": "Langley",
+    "url": "http://wiki.wargaming.net/en/Ship:Langley"
+  },
+  {
+    "name": "Ranger",
+    "url": "http://wiki.wargaming.net/en/Ship:Ranger"
+  },
+  {
+    "name": "Lexington",
+    "url": "http://wiki.wargaming.net/en/Ship:Lexington"
+  },
+  {
+    "name": "Enterprise",
+    "url": "http://wiki.wargaming.net/en/Ship:Enterprise"
+  },
+  {
+    "name": "Saipan",
+    "url": "http://wiki.wargaming.net/en/Ship:Saipan"
+  },
+  {
+    "name": "Midway",
+    "url": "http://wiki.wargaming.net/en/Ship:Midway"
+  }
 ]

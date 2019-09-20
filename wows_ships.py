@@ -87,11 +87,11 @@ def make_data_ships():
                     {"name": fn, "url": u} for fn, u in zip(names, urls)
                 ]
 
-                json.dump(data_ships, fo, indent=4, ensure_ascii=False)
+                json.dump(data_ships, fo, indent=2, ensure_ascii=False)
 
 
 if __name__ == '__main__':
     set_proxy()
-    fetch_nation_html(use_cache=False)
+    fetch_nation_html()
 
     make_data_ships()

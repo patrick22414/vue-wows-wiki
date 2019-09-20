@@ -1,74 +1,74 @@
 [
-    {
-        "name": "Mikasa",
-        "url": "http://wiki.wargaming.net/en/Ship:Mikasa"
-    },
-    {
-        "name": "Kawachi",
-        "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
-    },
-    {
-        "name": "Myōgi",
-        "url": "http://wiki.wargaming.net/en/Ship:My%C5%8Dgi"
-    },
-    {
-        "name": "Ishizuchi",
-        "url": "http://wiki.wargaming.net/en/Ship:Ishizuchi"
-    },
-    {
-        "name": "Kongō",
-        "url": "http://wiki.wargaming.net/en/Ship:Kong%C5%8D"
-    },
-    {
-        "name": "ARP Kongō",
-        "url": "http://wiki.wargaming.net/en/Ship:ARP_Kong%C5%8D"
-    },
-    {
-        "name": "ARP Kirishima",
-        "url": "http://wiki.wargaming.net/en/Ship:ARP_Kirishima"
-    },
-    {
-        "name": "ARP Haruna",
-        "url": "http://wiki.wargaming.net/en/Ship:ARP_Haruna"
-    },
-    {
-        "name": "ARP Hiei",
-        "url": "http://wiki.wargaming.net/en/Ship:ARP_Hiei"
-    },
-    {
-        "name": "Fusō",
-        "url": "http://wiki.wargaming.net/en/Ship:Fus%C5%8D"
-    },
-    {
-        "name": "Mutsu",
-        "url": "http://wiki.wargaming.net/en/Ship:Mutsu"
-    },
-    {
-        "name": "Nagato",
-        "url": "http://wiki.wargaming.net/en/Ship:Nagato"
-    },
-    {
-        "name": "Ashitaka",
-        "url": "http://wiki.wargaming.net/en/Ship:Ashitaka"
-    },
-    {
-        "name": "Amagi",
-        "url": "http://wiki.wargaming.net/en/Ship:Amagi"
-    },
-    {
-        "name": "Kii",
-        "url": "http://wiki.wargaming.net/en/Ship:Kii"
-    },
-    {
-        "name": "Izumo",
-        "url": "http://wiki.wargaming.net/en/Ship:Izumo"
-    },
-    {
-        "name": "Musashi",
-        "url": "http://wiki.wargaming.net/en/Ship:Musashi"
-    },
-    {
-        "name": "Yamato",
-        "url": "http://wiki.wargaming.net/en/Ship:Yamato"
-    }
+  {
+    "name": "Mikasa",
+    "url": "http://wiki.wargaming.net/en/Ship:Mikasa"
+  },
+  {
+    "name": "Kawachi",
+    "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
+  },
+  {
+    "name": "Myōgi",
+    "url": "http://wiki.wargaming.net/en/Ship:My%C5%8Dgi"
+  },
+  {
+    "name": "Ishizuchi",
+    "url": "http://wiki.wargaming.net/en/Ship:Ishizuchi"
+  },
+  {
+    "name": "Kongō",
+    "url": "http://wiki.wargaming.net/en/Ship:Kong%C5%8D"
+  },
+  {
+    "name": "ARP Kongō",
+    "url": "http://wiki.wargaming.net/en/Ship:ARP_Kong%C5%8D"
+  },
+  {
+    "name": "ARP Kirishima",
+    "url": "http://wiki.wargaming.net/en/Ship:ARP_Kirishima"
+  },
+  {
+    "name": "ARP Haruna",
+    "url": "http://wiki.wargaming.net/en/Ship:ARP_Haruna"
+  },
+  {
+    "name": "ARP Hiei",
+    "url": "http://wiki.wargaming.net/en/Ship:ARP_Hiei"
+  },
+  {
+    "name": "Fusō",
+    "url": "http://wiki.wargaming.net/en/Ship:Fus%C5%8D"
+  },
+  {
+    "name": "Mutsu",
+    "url": "http://wiki.wargaming.net/en/Ship:Mutsu"
+  },
+  {
+    "name": "Nagato",
+    "url": "http://wiki.wargaming.net/en/Ship:Nagato"
+  },
+  {
+    "name": "Ashitaka",
+    "url": "http://wiki.wargaming.net/en/Ship:Ashitaka"
+  },
+  {
+    "name": "Amagi",
+    "url": "http://wiki.wargaming.net/en/Ship:Amagi"
+  },
+  {
+    "name": "Kii",
+    "url": "http://wiki.wargaming.net/en/Ship:Kii"
+  },
+  {
+    "name": "Izumo",
+    "url": "http://wiki.wargaming.net/en/Ship:Izumo"
+  },
+  {
+    "name": "Musashi",
+    "url": "http://wiki.wargaming.net/en/Ship:Musashi"
+  },
+  {
+    "name": "Yamato",
+    "url": "http://wiki.wargaming.net/en/Ship:Yamato"
+  }
 ]

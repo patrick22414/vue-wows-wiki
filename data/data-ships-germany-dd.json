@@ -1,46 +1,46 @@
 [
-    {
-        "name": "V-25",
-        "url": "http://wiki.wargaming.net/en/Ship:V-25"
-    },
-    {
-        "name": "G-101",
-        "url": "http://wiki.wargaming.net/en/Ship:G-101"
-    },
-    {
-        "name": "V-170",
-        "url": "http://wiki.wargaming.net/en/Ship:V-170"
-    },
-    {
-        "name": "T-22",
-        "url": "http://wiki.wargaming.net/en/Ship:T-22"
-    },
-    {
-        "name": "Ernst Gaede",
-        "url": "http://wiki.wargaming.net/en/Ship:Ernst_Gaede"
-    },
-    {
-        "name": "T-61",
-        "url": "http://wiki.wargaming.net/en/Ship:T-61"
-    },
-    {
-        "name": "Leberecht Maass",
-        "url": "http://wiki.wargaming.net/en/Ship:Leberecht_Maass"
-    },
-    {
-        "name": "Z-39",
-        "url": "http://wiki.wargaming.net/en/Ship:Z-39"
-    },
-    {
-        "name": "Z-23",
-        "url": "http://wiki.wargaming.net/en/Ship:Z-23"
-    },
-    {
-        "name": "Z-46",
-        "url": "http://wiki.wargaming.net/en/Ship:Z-46"
-    },
-    {
-        "name": "Z-52",
-        "url": "http://wiki.wargaming.net/en/Ship:Z-52"
-    }
+  {
+    "name": "V-25",
+    "url": "http://wiki.wargaming.net/en/Ship:V-25"
+  },
+  {
+    "name": "G-101",
+    "url": "http://wiki.wargaming.net/en/Ship:G-101"
+  },
+  {
+    "name": "V-170",
+    "url": "http://wiki.wargaming.net/en/Ship:V-170"
+  },
+  {
+    "name": "T-22",
+    "url": "http://wiki.wargaming.net/en/Ship:T-22"
+  },
+  {
+    "name": "Ernst Gaede",
+    "url": "http://wiki.wargaming.net/en/Ship:Ernst_Gaede"
+  },
+  {
+    "name": "T-61",
+    "url": "http://wiki.wargaming.net/en/Ship:T-61"
+  },
+  {
+    "name": "Leberecht Maass",
+    "url": "http://wiki.wargaming.net/en/Ship:Leberecht_Maass"
+  },
+  {
+    "name": "Z-39",
+    "url": "http://wiki.wargaming.net/en/Ship:Z-39"
+  },
+  {
+    "name": "Z-23",
+    "url": "http://wiki.wargaming.net/en/Ship:Z-23"
+  },
+  {
+    "name": "Z-46",
+    "url": "http://wiki.wargaming.net/en/Ship:Z-46"
+  },
+  {
+    "name": "Z-52",
+    "url": "http://wiki.wargaming.net/en/Ship:Z-52"
+  }
 ]

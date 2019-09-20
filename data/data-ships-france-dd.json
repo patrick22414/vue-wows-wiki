@@ -1,54 +1,54 @@
 [
-    {
-        "name": "Enseigne Gabolde",
-        "url": "http://wiki.wargaming.net/en/Ship:Enseigne_Gabolde"
-    },
-    {
-        "name": "Fusilier",
-        "url": "http://wiki.wargaming.net/en/Ship:Fusilier"
-    },
-    {
-        "name": "Bourrasque",
-        "url": "http://wiki.wargaming.net/en/Ship:Bourrasque"
-    },
-    {
-        "name": "Jaguar",
-        "url": "http://wiki.wargaming.net/en/Ship:Jaguar"
-    },
-    {
-        "name": "Siroco",
-        "url": "http://wiki.wargaming.net/en/Ship:Siroco"
-    },
-    {
-        "name": "Guépard",
-        "url": "http://wiki.wargaming.net/en/Ship:Gu%C3%A9pard"
-    },
-    {
-        "name": "Aigle",
-        "url": "http://wiki.wargaming.net/en/Ship:Aigle"
-    },
-    {
-        "name": "Vauquelin",
-        "url": "http://wiki.wargaming.net/en/Ship:Vauquelin"
-    },
-    {
-        "name": "Le Fantasque",
-        "url": "http://wiki.wargaming.net/en/Ship:Le_Fantasque"
-    },
-    {
-        "name": "Le Terrible",
-        "url": "http://wiki.wargaming.net/en/Ship:Le_Terrible"
-    },
-    {
-        "name": "Mogador",
-        "url": "http://wiki.wargaming.net/en/Ship:Mogador"
-    },
-    {
-        "name": "Kléber",
-        "url": "http://wiki.wargaming.net/en/Ship:Kl%C3%A9ber"
-    },
-    {
-        "name": "Marceau",
-        "url": "http://wiki.wargaming.net/en/index.php?title=Ship:Marceau&action=edit&redlink=1"
-    }
+  {
+    "name": "Enseigne Gabolde",
+    "url": "http://wiki.wargaming.net/en/Ship:Enseigne_Gabolde"
+  },
+  {
+    "name": "Fusilier",
+    "url": "http://wiki.wargaming.net/en/Ship:Fusilier"
+  },
+  {
+    "name": "Bourrasque",
+    "url": "http://wiki.wargaming.net/en/Ship:Bourrasque"
+  },
+  {
+    "name": "Jaguar",
+    "url": "http://wiki.wargaming.net/en/Ship:Jaguar"
+  },
+  {
+    "name": "Siroco",
+    "url": "http://wiki.wargaming.net/en/Ship:Siroco"
+  },
+  {
+    "name": "Guépard",
+    "url": "http://wiki.wargaming.net/en/Ship:Gu%C3%A9pard"
+  },
+  {
+    "name": "Aigle",
+    "url": "http://wiki.wargaming.net/en/Ship:Aigle"
+  },
+  {
+    "name": "Vauquelin",
+    "url": "http://wiki.wargaming.net/en/Ship:Vauquelin"
+  },
+  {
+    "name": "Le Fantasque",
+    "url": "http://wiki.wargaming.net/en/Ship:Le_Fantasque"
+  },
+  {
+    "name": "Le Terrible",
+    "url": "http://wiki.wargaming.net/en/Ship:Le_Terrible"
+  },
+  {
+    "name": "Mogador",
+    "url": "http://wiki.wargaming.net/en/Ship:Mogador"
+  },
+  {
+    "name": "Kléber",
+    "url": "http://wiki.wargaming.net/en/Ship:Kl%C3%A9ber"
+  },
+  {
+    "name": "Marceau",
+    "url": "http://wiki.wargaming.net/en/Ship:Marceau"
+  }
 ]

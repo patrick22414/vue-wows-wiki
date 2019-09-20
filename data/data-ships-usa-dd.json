@@ -1,70 +1,70 @@
 [
-    {
-        "name": "Sampson",
-        "url": "http://wiki.wargaming.net/en/Ship:Sampson"
-    },
-    {
-        "name": "Smith",
-        "url": "http://wiki.wargaming.net/en/Ship:Smith"
-    },
-    {
-        "name": "Wickes",
-        "url": "http://wiki.wargaming.net/en/Ship:Wickes"
-    },
-    {
-        "name": "Clemson",
-        "url": "http://wiki.wargaming.net/en/Ship:Clemson"
-    },
-    {
-        "name": "Nicholas",
-        "url": "http://wiki.wargaming.net/en/Ship:Nicholas"
-    },
-    {
-        "name": "Hill",
-        "url": "http://wiki.wargaming.net/en/Ship:Hill"
-    },
-    {
-        "name": "Farragut",
-        "url": "http://wiki.wargaming.net/en/Ship:Farragut"
-    },
-    {
-        "name": "Monaghan",
-        "url": "http://wiki.wargaming.net/en/Ship:Monaghan"
-    },
-    {
-        "name": "Mahan",
-        "url": "http://wiki.wargaming.net/en/Ship:Mahan"
-    },
-    {
-        "name": "Sims",
-        "url": "http://wiki.wargaming.net/en/Ship:Sims"
-    },
-    {
-        "name": "Benson",
-        "url": "http://wiki.wargaming.net/en/Ship:Benson"
-    },
-    {
-        "name": "Kidd",
-        "url": "http://wiki.wargaming.net/en/Ship:Kidd"
-    },
-    {
-        "name": "Fletcher",
-        "url": "http://wiki.wargaming.net/en/Ship:Fletcher"
-    },
-    {
-        "name": "Benham",
-        "url": "http://wiki.wargaming.net/en/Ship:Benham"
-    },
-    {
-        "name": "Black",
-        "url": "http://wiki.wargaming.net/en/Ship:Black"
-    },
-    {
-        "name": "Gearing",
-        "url": "http://wiki.wargaming.net/en/Ship:Gearing"
-    },
-    {
-        "name": "Somers",
-        "url": "http://wiki.wargaming.net/en/Ship:Somers"
-    }
+  {
+    "name": "Sampson",
+    "url": "http://wiki.wargaming.net/en/Ship:Sampson"
+  },
+  {
+    "name": "Smith",
+    "url": "http://wiki.wargaming.net/en/Ship:Smith"
+  },
+  {
+    "name": "Wickes",
+    "url": "http://wiki.wargaming.net/en/Ship:Wickes"
+  },
+  {
+    "name": "Clemson",
+    "url": "http://wiki.wargaming.net/en/Ship:Clemson"
+  },
+  {
+    "name": "Nicholas",
+    "url": "http://wiki.wargaming.net/en/Ship:Nicholas"
+  },
+  {
+    "name": "Hill",
+    "url": "http://wiki.wargaming.net/en/Ship:Hill"
+  },
+  {
+    "name": "Farragut",
+    "url": "http://wiki.wargaming.net/en/Ship:Farragut"
+  },
+  {
+    "name": "Monaghan",
+    "url": "http://wiki.wargaming.net/en/Ship:Monaghan"
+  },
+  {
+    "name": "Mahan",
+    "url": "http://wiki.wargaming.net/en/Ship:Mahan"
+  },
+  {
+    "name": "Sims",
+    "url": "http://wiki.wargaming.net/en/Ship:Sims"
+  },
+  {
+    "name": "Benson",
+    "url": "http://wiki.wargaming.net/en/Ship:Benson"
+  },
+  {
+    "name": "Kidd",
+    "url": "http://wiki.wargaming.net/en/Ship:Kidd"
+  },
+  {
+    "name": "Fletcher",
+    "url": "http://wiki.wargaming.net/en/Ship:Fletcher"
+  },
+  {
+    "name": "Benham",
+    "url": "http://wiki.wargaming.net/en/Ship:Benham"
+  },
+  {
+    "name": "Black",
+    "url": "http://wiki.wargaming.net/en/Ship:Black"
+  },
+  {
+    "name": "Gearing",
+    "url": "http://wiki.wargaming.net/en/Ship:Gearing"
+  },
+  {
+    "name": "Somers",
+    "url": "http://wiki.wargaming.net/en/Ship:Somers"
+  }
 ]

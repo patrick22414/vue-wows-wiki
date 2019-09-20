@@ -1,22 +1,22 @@
 [
-    {
-        "name": "Hōshō",
-        "url": "http://wiki.wargaming.net/en/Ship:H%C5%8Dsh%C5%8D"
-    },
-    {
-        "name": "Ryūjō",
-        "url": "http://wiki.wargaming.net/en/Ship:Ry%C5%ABj%C5%8D"
-    },
-    {
-        "name": "Shōkaku",
-        "url": "http://wiki.wargaming.net/en/Ship:Sh%C5%8Dkaku"
-    },
-    {
-        "name": "Kaga",
-        "url": "http://wiki.wargaming.net/en/Ship:Kaga"
-    },
-    {
-        "name": "Hakuryū",
-        "url": "http://wiki.wargaming.net/en/Ship:Hakury%C5%AB"
-    }
+  {
+    "name": "Hōshō",
+    "url": "http://wiki.wargaming.net/en/Ship:H%C5%8Dsh%C5%8D"
+  },
+  {
+    "name": "Ryūjō",
+    "url": "http://wiki.wargaming.net/en/Ship:Ry%C5%ABj%C5%8D"
+  },
+  {
+    "name": "Shōkaku",
+    "url": "http://wiki.wargaming.net/en/Ship:Sh%C5%8Dkaku"
+  },
+  {
+    "name": "Kaga",
+    "url": "http://wiki.wargaming.net/en/Ship:Kaga"
+  },
+  {
+    "name": "Hakuryū",
+    "url": "http://wiki.wargaming.net/en/Ship:Hakury%C5%AB"
+  }
 ]

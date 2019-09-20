@@ -1,26 +1,26 @@
 [
-    {
-        "name": "Hermes",
-        "url": "http://wiki.wargaming.net/en/Ship:Hermes"
-    },
-    {
-        "name": "Furious",
-        "url": "http://wiki.wargaming.net/en/Ship:Furious"
-    },
-    {
-        "name": "Ark Royal",
-        "url": "http://wiki.wargaming.net/en/Ship:Ark_Royal"
-    },
-    {
-        "name": "Implacable",
-        "url": "http://wiki.wargaming.net/en/Ship:Implacable"
-    },
-    {
-        "name": "Indomitable",
-        "url": "http://wiki.wargaming.net/en/Ship:Indomitable"
-    },
-    {
-        "name": "Audacious",
-        "url": "http://wiki.wargaming.net/en/Ship:Audacious"
-    }
+  {
+    "name": "Hermes",
+    "url": "http://wiki.wargaming.net/en/Ship:Hermes"
+  },
+  {
+    "name": "Furious",
+    "url": "http://wiki.wargaming.net/en/Ship:Furious"
+  },
+  {
+    "name": "Ark Royal",
+    "url": "http://wiki.wargaming.net/en/Ship:Ark_Royal"
+  },
+  {
+    "name": "Implacable",
+    "url": "http://wiki.wargaming.net/en/Ship:Implacable"
+  },
+  {
+    "name": "Indomitable",
+    "url": "http://wiki.wargaming.net/en/Ship:Indomitable"
+  },
+  {
+    "name": "Audacious",
+    "url": "http://wiki.wargaming.net/en/Ship:Audacious"
+  }
 ]

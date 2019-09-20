@@ -1,66 +1,66 @@
 [
-    {
-        "name": "Storozhevoi",
-        "url": "http://wiki.wargaming.net/en/Ship:Storozhevoi"
-    },
-    {
-        "name": "Derzki",
-        "url": "http://wiki.wargaming.net/en/Ship:Derzki"
-    },
-    {
-        "name": "Izyaslav",
-        "url": "http://wiki.wargaming.net/en/Ship:Izyaslav"
-    },
-    {
-        "name": "Gremyashchy",
-        "url": "http://wiki.wargaming.net/en/Ship:Gremyashchy"
-    },
-    {
-        "name": "Podvoisky",
-        "url": "http://wiki.wargaming.net/en/Ship:Podvoisky"
-    },
-    {
-        "name": "Okhotnik",
-        "url": "http://wiki.wargaming.net/en/Ship:Okhotnik"
-    },
-    {
-        "name": "Gnevny",
-        "url": "http://wiki.wargaming.net/en/Ship:Gnevny"
-    },
-    {
-        "name": "Minsk",
-        "url": "http://wiki.wargaming.net/en/Ship:Minsk"
-    },
-    {
-        "name": "Leningrad",
-        "url": "http://wiki.wargaming.net/en/Ship:Leningrad"
-    },
-    {
-        "name": "Ognevoi",
-        "url": "http://wiki.wargaming.net/en/Ship:Ognevoi"
-    },
-    {
-        "name": "Kiev",
-        "url": "http://wiki.wargaming.net/en/Ship:Kiev"
-    },
-    {
-        "name": "Udaloi",
-        "url": "http://wiki.wargaming.net/en/Ship:Udaloi"
-    },
-    {
-        "name": "Tashkent",
-        "url": "http://wiki.wargaming.net/en/Ship:Tashkent"
-    },
-    {
-        "name": "Neustrashimy",
-        "url": "http://wiki.wargaming.net/en/Ship:Neustrashimy"
-    },
-    {
-        "name": "Khabarovsk",
-        "url": "http://wiki.wargaming.net/en/Ship:Khabarovsk"
-    },
-    {
-        "name": "Grozovoi",
-        "url": "http://wiki.wargaming.net/en/Ship:Grozovoi"
-    }
+  {
+    "name": "Storozhevoi",
+    "url": "http://wiki.wargaming.net/en/Ship:Storozhevoi"
+  },
+  {
+    "name": "Derzki",
+    "url": "http://wiki.wargaming.net/en/Ship:Derzki"
+  },
+  {
+    "name": "Izyaslav",
+    "url": "http://wiki.wargaming.net/en/Ship:Izyaslav"
+  },
+  {
+    "name": "Gremyashchy",
+    "url": "http://wiki.wargaming.net/en/Ship:Gremyashchy"
+  },
+  {
+    "name": "Podvoisky",
+    "url": "http://wiki.wargaming.net/en/Ship:Podvoisky"
+  },
+  {
+    "name": "Okhotnik",
+    "url": "http://wiki.wargaming.net/en/Ship:Okhotnik"
+  },
+  {
+    "name": "Gnevny",
+    "url": "http://wiki.wargaming.net/en/Ship:Gnevny"
+  },
+  {
+    "name": "Minsk",
+    "url": "http://wiki.wargaming.net/en/Ship:Minsk"
+  },
+  {
+    "name": "Leningrad",
+    "url": "http://wiki.wargaming.net/en/Ship:Leningrad"
+  },
+  {
+    "name": "Ognevoi",
+    "url": "http://wiki.wargaming.net/en/Ship:Ognevoi"
+  },
+  {
+    "name": "Kiev",
+    "url": "http://wiki.wargaming.net/en/Ship:Kiev"
+  },
+  {
+    "name": "Udaloi",
+    "url": "http://wiki.wargaming.net/en/Ship:Udaloi"
+  },
+  {
+    "name": "Tashkent",
+    "url": "http://wiki.wargaming.net/en/Ship:Tashkent"
+  },
+  {
+    "name": "Neustrashimy",
+    "url": "http://wiki.wargaming.net/en/Ship:Neustrashimy"
+  },
+  {
+    "name": "Khabarovsk",
+    "url": "http://wiki.wargaming.net/en/Ship:Khabarovsk"
+  },
+  {
+    "name": "Grozovoi",
+    "url": "http://wiki.wargaming.net/en/Ship:Grozovoi"
+  }
 ]

@@ -1,50 +1,50 @@
 [
-    {
-        "name": "Turenne",
-        "url": "http://wiki.wargaming.net/en/Ship:Turenne"
-    },
-    {
-        "name": "Courbet",
-        "url": "http://wiki.wargaming.net/en/Ship:Courbet"
-    },
-    {
-        "name": "Bretagne",
-        "url": "http://wiki.wargaming.net/en/Ship:Bretagne"
-    },
-    {
-        "name": "Normandie",
-        "url": "http://wiki.wargaming.net/en/Ship:Normandie"
-    },
-    {
-        "name": "Dunkerque",
-        "url": "http://wiki.wargaming.net/en/Ship:Dunkerque"
-    },
-    {
-        "name": "Lyon",
-        "url": "http://wiki.wargaming.net/en/Ship:Lyon"
-    },
-    {
-        "name": "Richelieu",
-        "url": "http://wiki.wargaming.net/en/Ship:Richelieu"
-    },
-    {
-        "name": "Gascogne",
-        "url": "http://wiki.wargaming.net/en/Ship:Gascogne"
-    },
-    {
-        "name": "Alsace",
-        "url": "http://wiki.wargaming.net/en/Ship:Alsace"
-    },
-    {
-        "name": "Jean Bart",
-        "url": "http://wiki.wargaming.net/en/Ship:Jean_Bart"
-    },
-    {
-        "name": "République",
-        "url": "http://wiki.wargaming.net/en/Ship:R%C3%A9publique"
-    },
-    {
-        "name": "Bourgogne",
-        "url": "http://wiki.wargaming.net/en/Ship:Bourgogne"
-    }
+  {
+    "name": "Turenne",
+    "url": "http://wiki.wargaming.net/en/Ship:Turenne"
+  },
+  {
+    "name": "Courbet",
+    "url": "http://wiki.wargaming.net/en/Ship:Courbet"
+  },
+  {
+    "name": "Bretagne",
+    "url": "http://wiki.wargaming.net/en/Ship:Bretagne"
+  },
+  {
+    "name": "Normandie",
+    "url": "http://wiki.wargaming.net/en/Ship:Normandie"
+  },
+  {
+    "name": "Dunkerque",
+    "url": "http://wiki.wargaming.net/en/Ship:Dunkerque"
+  },
+  {
+    "name": "Lyon",
+    "url": "http://wiki.wargaming.net/en/Ship:Lyon"
+  },
+  {
+    "name": "Richelieu",
+    "url": "http://wiki.wargaming.net/en/Ship:Richelieu"
+  },
+  {
+    "name": "Gascogne",
+    "url": "http://wiki.wargaming.net/en/Ship:Gascogne"
+  },
+  {
+    "name": "Alsace",
+    "url": "http://wiki.wargaming.net/en/Ship:Alsace"
+  },
+  {
+    "name": "Jean Bart",
+    "url": "http://wiki.wargaming.net/en/Ship:Jean_Bart"
+  },
+  {
+    "name": "République",
+    "url": "http://wiki.wargaming.net/en/Ship:R%C3%A9publique"
+  },
+  {
+    "name": "Bourgogne",
+    "url": "http://wiki.wargaming.net/en/Ship:Bourgogne"
+  }
 ]

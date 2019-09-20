@@ -1,6 +1,11 @@
 <template>
   <div class="nations-wrapper">
-    <div v-for="n in nations" :key="n.name" class="nation-selector">{{ n.fullName }}</div>
+    <div
+      v-for="n in nations"
+      v-on:click="selectNation"
+      v-bind:key="n.name"
+      class="nation-selector"
+    >{{ n.fullName }}</div>
   </div>
 </template>
 
@@ -12,6 +17,12 @@
       return {
         nations: dataNations,
       };
+    },
+
+    methods: {
+      selectNation: function() {
+        console.log(this);
+      },
     },
   };
 </script>
@@ -31,19 +42,19 @@
     width: 60%;
     height: 30px;
 
-    box-shadow: 0 3px 0 slateblue;
-
     text-align: center;
     line-height: 30px;
 
     font-weight: 500;
     color: slateblue;
 
-    transition: box-shadow 0.2s ease;
     overflow: hidden;
 
+    box-shadow: 0 3px 0 slateblue;
+    transition: box-shadow 0.2s ease;
+
     &:hover {
-      box-shadow: 0 3px 0 5px slateblue;
+      box-shadow: 0 3px 0.01px 5px slateblue;
     }
   }
 </style>

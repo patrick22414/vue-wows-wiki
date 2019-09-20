@@ -29,20 +29,20 @@
 
   .ship-type-selector {
     width: 15%;
+    height: 100%;
 
     font-weight: 500;
     color: slateblue;
     text-align: center;
     line-height: 48px;
 
-    box-shadow: 0 3px 0 slateblue;
-    height: 100%;
+    box-shadow: 0 3px 0px slateblue;
 
     transition: box-shadow 0.2s ease;
     overflow: hidden;
 
     &:hover {
-      box-shadow: 0 3px 0 5px slateblue;
+      box-shadow: 0 3px 0.01px 5px slateblue;
     }
   }
 </style>

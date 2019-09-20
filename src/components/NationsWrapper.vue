@@ -1,6 +1,6 @@
 <template>
   <div class="nations-wrapper">
-    <div v-for="n in nations" :key="n.name" class="nation-selector">{{ n.full_name }}</div>
+    <div v-for="n in nations" :key="n.name" class="nation-selector">{{ n.fullName }}</div>
   </div>
 </template>
 
@@ -23,28 +23,27 @@
     display: flex;
     flex-flow: column nowrap;
 
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 60px 0;
   }
 
   .nation-selector {
-    width: 80%;
-    height: 40px;
+    width: 60%;
+    height: 30px;
 
-    border-radius: 20px;
-    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 3px 0 slateblue;
 
     text-align: center;
-    line-height: 40px;
+    line-height: 30px;
 
     font-weight: 500;
     color: slateblue;
 
-    transition: box-shadow 1s;
+    transition: box-shadow 0.2s ease;
+    overflow: hidden;
 
     &:hover {
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 3px 0 5px slateblue;
     }
   }
 </style>

@@ -51,7 +51,7 @@ def make_data_nations():
     ]
 
     data_nations = [
-        {"name": n, "full_name": fn, "url": u}
+        {"name": n, "fullName": fn, "url": u}
         for n, fn, u in zip(names, full_names, urls)
     ]
 

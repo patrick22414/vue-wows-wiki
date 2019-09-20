@@ -1,5 +1,7 @@
 <template>
-  <div class="header" />
+  <div class="header">
+    <h1>WOWs View</h1>
+  </div>
 </template>
 
 <style lang="less" scoped>
@@ -8,5 +10,12 @@
     height: 120px;
 
     background: slateblue;
+
+    padding: 20px;
+
+    h1 {
+      text-align: center;
+      color: whitesmoke;
+    }
   }
 </style>

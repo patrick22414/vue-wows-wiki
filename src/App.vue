@@ -6,31 +6,31 @@
 </template>
 
 <script>
-import Header from "./components/Header";
-import GridWrapper from "./components/GridWrapper";
+  import Header from "./components/Header";
+  import GridWrapper from "./components/GridWrapper";
 
-export default {
-  name: "app",
-  components: {
-    Header,
-    GridWrapper
-  }
-};
+  export default {
+    name: "app",
+    components: {
+      Header,
+      GridWrapper
+    }
+  };
 </script>
 
 <style>
-* {
-  margin: 0;
-  padding: 0;
+  * {
+    margin: 0;
+    padding: 0;
 
-  box-sizing: border-box;
-}
+    box-sizing: border-box;
+  }
 
-#app {
-  font-family: -apple-system, "Segoe UI", "Open Sans", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  #app {
+    font-family: -apple-system, "Segoe UI", "Open Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 
-  max-height: 100vh;
-}
+    max-height: 100vh;
+  }
 </style>

@@ -3,10 +3,10 @@
 </template>
 
 <style lang="less" scoped>
-.header {
-  width: 100%;
-  height: 120px;
+  .header {
+    width: 100%;
+    height: 120px;
 
-  background: slateblue;
-}
+    background: slateblue;
+  }
 </style>

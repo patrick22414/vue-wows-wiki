@@ -1,57 +1,57 @@
 [
-    {
-        "name": "usa",
-        "full_name": "U.S.A.",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_U.S.A."
-    },
-    {
-        "name": "japan",
-        "full_name": "Japan",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Japan"
-    },
-    {
-        "name": "ussr",
-        "full_name": "U.S.S.R.",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_U.S.S.R."
-    },
-    {
-        "name": "germany",
-        "full_name": "Germany",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Germany"
-    },
-    {
-        "name": "uk",
-        "full_name": "U.K.",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_U.K."
-    },
-    {
-        "name": "commonwealth",
-        "full_name": "Commonwealth",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Commonwealth"
-    },
-    {
-        "name": "france",
-        "full_name": "France",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_France"
-    },
-    {
-        "name": "italy",
-        "full_name": "Italy",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Italy"
-    },
-    {
-        "name": "panasia",
-        "full_name": "Pan-Asia",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Pan-Asia"
-    },
-    {
-        "name": "paneurope",
-        "full_name": "Pan-Europe",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Pan-Europe"
-    },
-    {
-        "name": "panamerica",
-        "full_name": "Pan-America",
-        "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Pan-America"
-    }
+  {
+    "name": "usa",
+    "full_name": "U.S.A.",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_U.S.A."
+  },
+  {
+    "name": "japan",
+    "full_name": "Japan",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Japan"
+  },
+  {
+    "name": "ussr",
+    "full_name": "U.S.S.R.",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_U.S.S.R."
+  },
+  {
+    "name": "germany",
+    "full_name": "Germany",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Germany"
+  },
+  {
+    "name": "uk",
+    "full_name": "U.K.",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_U.K."
+  },
+  {
+    "name": "commonwealth",
+    "full_name": "Commonwealth",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Commonwealth"
+  },
+  {
+    "name": "france",
+    "full_name": "France",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_France"
+  },
+  {
+    "name": "italy",
+    "full_name": "Italy",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Italy"
+  },
+  {
+    "name": "panasia",
+    "full_name": "Pan-Asia",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Pan-Asia"
+  },
+  {
+    "name": "paneurope",
+    "full_name": "Pan-Europe",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Pan-Europe"
+  },
+  {
+    "name": "panamerica",
+    "full_name": "Pan-America",
+    "url": "http://wiki.wargaming.net/en/Ship:Ships_of_Pan-America"
+  }
 ]

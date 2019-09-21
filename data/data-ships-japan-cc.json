@@ -1,102 +1,127 @@
 [
   {
     "name": "Hashidate",
+    "tier": 1,
     "url": "http://wiki.wargaming.net/en/Ship:Hashidate"
   },
   {
     "name": "Chikuma",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Chikuma"
   },
   {
     "name": "Tenryū",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Tenry%C5%AB"
   },
   {
     "name": "Katori",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Katori"
   },
   {
     "name": "Yūbari",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Y%C5%ABbari"
   },
   {
     "name": "Kuma",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Kuma"
   },
   {
     "name": "Iwaki Alpha",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Iwaki_Alpha"
   },
   {
     "name": "Furutaka",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Furutaka"
   },
   {
     "name": "Yahagi",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Yahagi"
   },
   {
     "name": "Aoba",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Aoba"
   },
   {
     "name": "Myōkō",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:My%C5%8Dk%C5%8D"
   },
   {
     "name": "ARP Myōkō",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_My%C5%8Dk%C5%8D"
   },
   {
     "name": "ARP Ashigara",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Ashigara"
   },
   {
     "name": "ARP Haguro",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Haguro"
   },
   {
     "name": "Southern Dragon",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Southern_Dragon"
   },
   {
     "name": "Eastern Dragon",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Eastern_Dragon"
   },
   {
     "name": "ARP Nachi",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Nachi"
   },
   {
     "name": "Mogami",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Mogami"
   },
   {
     "name": "Atago",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Atago"
   },
   {
     "name": "Atago B",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Atago_B"
   },
   {
     "name": "ARP Takao",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Takao"
   },
   {
     "name": "Ibuki",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Ibuki"
   },
   {
     "name": "Azuma",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Azuma"
   },
   {
     "name": "Zaō",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Za%C5%8D"
   },
   {
     "name": "Yoshino",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Yoshino"
   }
 ]

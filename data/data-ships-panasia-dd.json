@@ -1,46 +1,57 @@
 [
   {
     "name": "Longjiang",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Longjiang"
   },
   {
     "name": "Phra Ruang",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Phra_Ruang"
   },
   {
     "name": "Shenyang",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Shenyang"
   },
   {
     "name": "Jianwei",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Jianwei"
   },
   {
     "name": "Fushun",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Fushun"
   },
   {
     "name": "Anshan",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Anshan"
   },
   {
     "name": "Gadjah Mada",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Gadjah_Mada"
   },
   {
     "name": "Hsienyang",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Hsienyang"
   },
   {
     "name": "Loyang",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Loyang"
   },
   {
     "name": "Chung Mu",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Chung_Mu"
   },
   {
     "name": "Yueyang",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Yueyang"
   }
 ]

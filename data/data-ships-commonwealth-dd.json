@@ -1,10 +1,12 @@
 [
   {
     "name": "Vampire",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Vampire"
   },
   {
     "name": "Haida",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Haida"
   }
 ]

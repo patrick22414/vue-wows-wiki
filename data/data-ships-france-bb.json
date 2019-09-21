@@ -1,50 +1,62 @@
 [
   {
     "name": "Turenne",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Turenne"
   },
   {
     "name": "Courbet",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Courbet"
   },
   {
     "name": "Bretagne",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Bretagne"
   },
   {
     "name": "Normandie",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Normandie"
   },
   {
     "name": "Dunkerque",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Dunkerque"
   },
   {
     "name": "Lyon",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Lyon"
   },
   {
     "name": "Richelieu",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Richelieu"
   },
   {
     "name": "Gascogne",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Gascogne"
   },
   {
     "name": "Alsace",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Alsace"
   },
   {
     "name": "Jean Bart",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Jean_Bart"
   },
   {
     "name": "République",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:R%C3%A9publique"
   },
   {
     "name": "Bourgogne",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Bourgogne"
   }
 ]

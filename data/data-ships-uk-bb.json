@@ -1,62 +1,77 @@
 [
   {
     "name": "Bellerophon",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Bellerophon"
   },
   {
     "name": "Dreadnought",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Dreadnought"
   },
   {
     "name": "Orion",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Orion"
   },
   {
     "name": "Iron Duke",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Iron_Duke"
   },
   {
     "name": "Warspite",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Warspite"
   },
   {
     "name": "Queen Elizabeth",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Queen_Elizabeth"
   },
   {
     "name": "King George V",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:King_George_V"
   },
   {
     "name": "Hood",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Hood"
   },
   {
     "name": "Nelson",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Nelson"
   },
   {
     "name": "Duke of York",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Duke_of_York"
   },
   {
     "name": "Monarch",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Monarch"
   },
   {
     "name": "Vanguard",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Vanguard"
   },
   {
     "name": "Lion",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Lion"
   },
   {
     "name": "Conqueror",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Conqueror"
   },
   {
     "name": "Thunderer",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Thunderer"
   }
 ]

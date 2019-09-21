@@ -1,50 +1,62 @@
 [
   {
     "name": "Medea",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Medea"
   },
   {
     "name": "Valkyrie",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Valkyrie"
   },
   {
     "name": "Campbeltown",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Campbeltown"
   },
   {
     "name": "Wakeful",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Wakeful"
   },
   {
     "name": "Acasta",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Acasta"
   },
   {
     "name": "Icarus",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Icarus"
   },
   {
     "name": "Gallant",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Gallant"
   },
   {
     "name": "Jervis",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Jervis"
   },
   {
     "name": "Lightning",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Lightning"
   },
   {
     "name": "Cossack",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Cossack"
   },
   {
     "name": "Jutland",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Jutland"
   },
   {
     "name": "Daring",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Daring"
   }
 ]

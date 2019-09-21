@@ -1,54 +1,67 @@
 [
   {
     "name": "Nassau",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Nassau"
   },
   {
     "name": "König Albert",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:K%C3%B6nig_Albert"
   },
   {
     "name": "Kaiser",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Kaiser"
   },
   {
     "name": "König",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:K%C3%B6nig"
   },
   {
     "name": "Bayern",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Bayern"
   },
   {
     "name": "Prinz Eitel Friedrich",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Prinz_Eitel_Friedrich"
   },
   {
     "name": "Gneisenau",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Gneisenau"
   },
   {
     "name": "Scharnhorst",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Scharnhorst"
   },
   {
     "name": "Tirpitz",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Tirpitz"
   },
   {
     "name": "Bismarck",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Bismarck"
   },
   {
     "name": "Tirpitz B",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Tirpitz_B"
   },
   {
     "name": "Friedrich der Große",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Friedrich_der_Gro%C3%9Fe"
   },
   {
     "name": "Großer Kurfürst",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Gro%C3%9Fer_Kurf%C3%BCrst"
   }
 ]

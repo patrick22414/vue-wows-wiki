@@ -1,62 +1,77 @@
 [
   {
     "name": "Hermelin",
+    "tier": 1,
     "url": "http://wiki.wargaming.net/en/Ship:Hermelin"
   },
   {
     "name": "Dresden",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Dresden"
   },
   {
     "name": "Emden",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Emden"
   },
   {
     "name": "Kolberg",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Kolberg"
   },
   {
     "name": "Karlsruhe",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Karlsruhe"
   },
   {
     "name": "Königsberg",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:K%C3%B6nigsberg"
   },
   {
     "name": "Nürnberg",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:N%C3%BCrnberg"
   },
   {
     "name": "Admiral Graf Spee",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Admiral_Graf_Spee"
   },
   {
     "name": "HSF Admiral Graf Spee",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:HSF_Admiral_Graf_Spee"
   },
   {
     "name": "Yorck",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Yorck"
   },
   {
     "name": "Admiral Hipper",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Admiral_Hipper"
   },
   {
     "name": "Prinz Eugen",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Prinz_Eugen"
   },
   {
     "name": "Roon",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Roon"
   },
   {
     "name": "Siegfried",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Siegfried"
   },
   {
     "name": "Hindenburg",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Hindenburg"
   }
 ]

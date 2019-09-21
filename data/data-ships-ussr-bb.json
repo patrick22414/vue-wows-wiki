@@ -1,54 +1,67 @@
 [
   {
     "name": "Knyaz Suvorov",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Knyaz_Suvorov"
   },
   {
     "name": "Imperator Nikolai I",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Imperator_Nikolai_I"
   },
   {
     "name": "Gangut",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Gangut"
   },
   {
     "name": "Pyotr Velikiy",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Pyotr_Velikiy"
   },
   {
     "name": "Oktyabrskaya Revolutsiya",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Oktyabrskaya_Revolutsiya"
   },
   {
     "name": "Izmail",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Izmail"
   },
   {
     "name": "Sinop",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Sinop"
   },
   {
     "name": "Poltava",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/index.php?title=Ship:Poltava&action=edit&redlink=1"
   },
   {
     "name": "Vladivostok",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Vladivostok"
   },
   {
     "name": "Lenin",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Lenin"
   },
   {
     "name": "Sovetsky Soyuz",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Sovetsky_Soyuz"
   },
   {
     "name": "Kremlin",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Kremlin"
   },
   {
     "name": "Slava",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Slava"
   }
 ]

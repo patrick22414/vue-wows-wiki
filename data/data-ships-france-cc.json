@@ -1,54 +1,67 @@
 [
   {
     "name": "Bougainville",
+    "tier": 1,
     "url": "http://wiki.wargaming.net/en/Ship:Bougainville"
   },
   {
     "name": "Jurien de la Gravière",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Jurien_de_la_Gravi%C3%A8re"
   },
   {
     "name": "Friant",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Friant"
   },
   {
     "name": "Duguay-Trouin",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Duguay-Trouin"
   },
   {
     "name": "Émile Bertin",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:%C3%89mile_Bertin"
   },
   {
     "name": "La Galissonnière",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:La_Galissonni%C3%A8re"
   },
   {
     "name": "De Grasse",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:De_Grasse"
   },
   {
     "name": "Algérie",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Alg%C3%A9rie"
   },
   {
     "name": "Charles Martel",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Charles_Martel"
   },
   {
     "name": "Bayard",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Bayard"
   },
   {
     "name": "Saint-Louis",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Saint-Louis"
   },
   {
     "name": "Henri IV",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Henri_IV"
   },
   {
     "name": "Colbert",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Colbert"
   }
 ]

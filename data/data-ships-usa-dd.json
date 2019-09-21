@@ -1,70 +1,87 @@
 [
   {
     "name": "Sampson",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Sampson"
   },
   {
     "name": "Smith",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Smith"
   },
   {
     "name": "Wickes",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Wickes"
   },
   {
     "name": "Clemson",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Clemson"
   },
   {
     "name": "Nicholas",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Nicholas"
   },
   {
     "name": "Hill",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Hill"
   },
   {
     "name": "Farragut",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Farragut"
   },
   {
     "name": "Monaghan",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Monaghan"
   },
   {
     "name": "Mahan",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Mahan"
   },
   {
     "name": "Sims",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Sims"
   },
   {
     "name": "Benson",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Benson"
   },
   {
     "name": "Kidd",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Kidd"
   },
   {
     "name": "Fletcher",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Fletcher"
   },
   {
     "name": "Benham",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Benham"
   },
   {
     "name": "Black",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Black"
   },
   {
     "name": "Gearing",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Gearing"
   },
   {
     "name": "Somers",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Somers"
   }
 ]

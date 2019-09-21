@@ -1,82 +1,102 @@
 [
   {
     "name": "South Carolina",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:South_Carolina"
   },
   {
     "name": "Wyoming",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Wyoming"
   },
   {
     "name": "Arkansas Beta",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Arkansas_Beta"
   },
   {
     "name": "New York",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:New_York"
   },
   {
     "name": "Texas",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Texas"
   },
   {
     "name": "New Mexico",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:New_Mexico"
   },
   {
     "name": "Arizona",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Arizona"
   },
   {
     "name": "W. Virginia 1941",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:W._Virginia_1941"
   },
   {
     "name": "Colorado",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Colorado"
   },
   {
     "name": "California",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/index.php?title=Ship:California&action=edit&redlink=1"
   },
   {
     "name": "North Carolina",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:North_Carolina"
   },
   {
     "name": "Alabama",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Alabama"
   },
   {
     "name": "Massachusetts",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Massachusetts"
   },
   {
     "name": "Massachusetts B",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Massachusetts_B"
   },
   {
     "name": "Alabama ST",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Alabama_ST"
   },
   {
     "name": "Iowa",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Iowa"
   },
   {
     "name": "Missouri",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Missouri"
   },
   {
     "name": "Georgia",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Georgia"
   },
   {
     "name": "Montana",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Montana"
   },
   {
     "name": "Ohio",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Ohio"
   }
 ]

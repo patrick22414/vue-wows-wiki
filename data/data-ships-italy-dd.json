@@ -1,10 +1,12 @@
 [
   {
     "name": "Leone",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Leone"
   },
   {
     "name": "Paolo Emilio",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Paolo_Emilio"
   }
 ]

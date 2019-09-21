@@ -1,66 +1,82 @@
 [
   {
     "name": "Storozhevoi",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Storozhevoi"
   },
   {
     "name": "Derzki",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Derzki"
   },
   {
     "name": "Izyaslav",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Izyaslav"
   },
   {
     "name": "Gremyashchy",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Gremyashchy"
   },
   {
     "name": "Podvoisky",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Podvoisky"
   },
   {
     "name": "Okhotnik",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Okhotnik"
   },
   {
     "name": "Gnevny",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Gnevny"
   },
   {
     "name": "Minsk",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Minsk"
   },
   {
     "name": "Leningrad",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Leningrad"
   },
   {
     "name": "Ognevoi",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Ognevoi"
   },
   {
     "name": "Kiev",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Kiev"
   },
   {
     "name": "Udaloi",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Udaloi"
   },
   {
     "name": "Tashkent",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Tashkent"
   },
   {
     "name": "Neustrashimy",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Neustrashimy"
   },
   {
     "name": "Khabarovsk",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Khabarovsk"
   },
   {
     "name": "Grozovoi",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Grozovoi"
   }
 ]

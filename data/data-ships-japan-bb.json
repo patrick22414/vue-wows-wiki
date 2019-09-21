@@ -1,74 +1,92 @@
 [
   {
     "name": "Mikasa",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Mikasa"
   },
   {
     "name": "Kawachi",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Kawachi"
   },
   {
     "name": "Myōgi",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:My%C5%8Dgi"
   },
   {
     "name": "Ishizuchi",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Ishizuchi"
   },
   {
     "name": "Kongō",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Kong%C5%8D"
   },
   {
     "name": "ARP Kongō",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Kong%C5%8D"
   },
   {
     "name": "ARP Kirishima",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Kirishima"
   },
   {
     "name": "ARP Haruna",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Haruna"
   },
   {
     "name": "ARP Hiei",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:ARP_Hiei"
   },
   {
     "name": "Fusō",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Fus%C5%8D"
   },
   {
     "name": "Mutsu",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Mutsu"
   },
   {
     "name": "Nagato",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Nagato"
   },
   {
     "name": "Ashitaka",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Ashitaka"
   },
   {
     "name": "Amagi",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Amagi"
   },
   {
     "name": "Kii",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Kii"
   },
   {
     "name": "Izumo",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Izumo"
   },
   {
     "name": "Musashi",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Musashi"
   },
   {
     "name": "Yamato",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Yamato"
   }
 ]

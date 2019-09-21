@@ -1,26 +1,32 @@
 [
   {
     "name": "Langley",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Langley"
   },
   {
     "name": "Ranger",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Ranger"
   },
   {
     "name": "Lexington",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Lexington"
   },
   {
     "name": "Enterprise",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Enterprise"
   },
   {
     "name": "Saipan",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Saipan"
   },
   {
     "name": "Midway",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Midway"
   }
 ]

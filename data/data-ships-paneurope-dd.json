@@ -1,10 +1,12 @@
 [
   {
     "name": "Błyskawica",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:B%C5%82yskawica"
   },
   {
     "name": "Friesland",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Friesland"
   }
 ]

@@ -1,50 +1,62 @@
 [
   {
     "name": "Black Swan",
+    "tier": 1,
     "url": "http://wiki.wargaming.net/en/Ship:Black_Swan"
   },
   {
     "name": "Weymouth",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Weymouth"
   },
   {
     "name": "Caledon",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Caledon"
   },
   {
     "name": "Danae",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Danae"
   },
   {
     "name": "Emerald",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Emerald"
   },
   {
     "name": "Exeter",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Exeter"
   },
   {
     "name": "Leander",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Leander"
   },
   {
     "name": "Fiji",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Fiji"
   },
   {
     "name": "Belfast",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Belfast"
   },
   {
     "name": "Edinburgh",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Edinburgh"
   },
   {
     "name": "Neptune",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Neptune"
   },
   {
     "name": "Minotaur",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Minotaur"
   }
 ]

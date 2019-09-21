@@ -7,27 +7,6 @@ from bs4.element import Tag
 from common import *
 
 
-def convert_ship_type(s: str) -> str:
-    if s == "Destroyers":
-        return "dd"
-    elif s == "Cruisers":
-        return "cc"
-    elif s == "Battleships":
-        return "bb"
-    elif s == "Aircraft Carriers":
-        return "cv"
-    elif s == "dd":
-        return "Destroyers"
-    elif s == "cc":
-        return "Cruisers"
-    elif s == "bb":
-        return "Battleships"
-    elif s == "cv":
-        return "Aircraft Carriers"
-    else:
-        raise ValueError(f"Ship type not found: {s}")
-
-
 def fetch_nation_html(use_cache=True):
     with open_data("nations", mode="r") as fo:
         data_nations = json.load(fo)
@@ -37,7 +16,7 @@ def fetch_nation_html(use_cache=True):
         if use_cache:
             try:
                 with open_cache(nation["name"] + ".html", mode="r") as fo:
-                    log("Skipping", "Use cache for", nation["full_name"])
+                    log("Skipping", "Use cache for", nation["fullName"])
                 continue
             except FileNotFoundError:
                 pass
@@ -66,25 +45,35 @@ def make_data_ships():
 
         # Each type of ships are in a <div class="wot-frame-1">
         for ship_type_div in soup.select(".wot-frame-1"):
-            # The ship type is specified in <h2><span>Ship Type</...>
-            ship_type = next(ship_type_div.select("h2 span")[0].stripped_strings)
-            log("Processing", nation["full_name"], ship_type)
+            # The ship type is specified in a "h2 span"
+            ship_type = next(ship_type_div.h2.span.stripped_strings)
+            log("Processing", nation["fullName"], ship_type)
 
             ship_type = convert_ship_type(ship_type)
 
             names = []
             urls = []
+            tiers = []
 
             # Each ship is in a <div class="tleft">
             for ship_div in ship_type_div.select(".tleft"):
-                ship_a = ship_div.select("center a")[0]
+                # Ship name and url are in a "center a"
+                ship_center_a: Tag = ship_div.center.a
+                name = next(ship_center_a.stripped_strings)
+                url = ROOT_URL + ship_center_a.get("href")
 
-                names.append(next(ship_a.stripped_strings))
-                urls.append(ROOT_URL + ship_a.get("href"))
+                # Ship tier is in a "center span b", in Roman numerals
+                tier = next(ship_div.center.span.b.stripped_strings)
+                tier = convert_ship_tier(tier)
+
+                names.append(name)
+                urls.append(url)
+                tiers.append(tier)
 
             with open_data("ships", nation["name"], ship_type, mode="w") as fo:
                 data_ships = [
-                    {"name": fn, "url": u} for fn, u in zip(names, urls)
+                    {"name": fn, "tier": t, "url": u}
+                    for fn, u, t in zip(names, urls, tiers)
                 ]
 
                 json.dump(data_ships, fo, indent=2, ensure_ascii=False)

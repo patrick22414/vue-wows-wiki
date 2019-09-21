@@ -12,6 +12,8 @@ __all__ = [
     "open_data",
     "set_proxy",
     "get_ship_html_name",
+    "convert_ship_type",
+    "convert_ship_tier"
 ]
 
 ROOT_URL = "http://wiki.wargaming.net"
@@ -78,3 +80,49 @@ def get_ship_html_name(name: str) -> str:
     name = re.sub(r"[^0-9a-zA-Z]+", "_", name)
 
     return "ship-" + name + ".html"
+
+
+def convert_ship_type(s: str) -> str:
+    if s == "Destroyers":
+        return "dd"
+    elif s == "Cruisers":
+        return "cc"
+    elif s == "Battleships":
+        return "bb"
+    elif s == "Aircraft Carriers":
+        return "cv"
+    elif s == "dd":
+        return "Destroyers"
+    elif s == "cc":
+        return "Cruisers"
+    elif s == "bb":
+        return "Battleships"
+    elif s == "cv":
+        return "Aircraft Carriers"
+    else:
+        raise ValueError(f"Ship type not found: {s}")
+
+
+def convert_ship_tier(roman: str) -> int:
+    if roman == "I":
+        return 1
+    elif roman == "II":
+        return 2
+    elif roman == "III":
+        return 3
+    elif roman == "IV":
+        return 4
+    elif roman == "V":
+        return 5
+    elif roman == "VI":
+        return 6
+    elif roman == "VII":
+        return 7
+    elif roman == "VIII":
+        return 8
+    elif roman == "IX":
+        return 9
+    elif roman == "X":
+        return 10
+    else:
+        return -1

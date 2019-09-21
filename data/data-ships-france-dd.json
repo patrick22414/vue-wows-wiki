@@ -1,54 +1,67 @@
 [
   {
     "name": "Enseigne Gabolde",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Enseigne_Gabolde"
   },
   {
     "name": "Fusilier",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Fusilier"
   },
   {
     "name": "Bourrasque",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Bourrasque"
   },
   {
     "name": "Jaguar",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Jaguar"
   },
   {
     "name": "Siroco",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Siroco"
   },
   {
     "name": "Guépard",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Gu%C3%A9pard"
   },
   {
     "name": "Aigle",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Aigle"
   },
   {
     "name": "Vauquelin",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Vauquelin"
   },
   {
     "name": "Le Fantasque",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Le_Fantasque"
   },
   {
     "name": "Le Terrible",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Le_Terrible"
   },
   {
     "name": "Mogador",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Mogador"
   },
   {
     "name": "Kléber",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Kl%C3%A9ber"
   },
   {
     "name": "Marceau",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Marceau"
   }
 ]

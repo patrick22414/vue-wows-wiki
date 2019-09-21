@@ -1,26 +1,32 @@
 [
   {
     "name": "Hermes",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Hermes"
   },
   {
     "name": "Furious",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Furious"
   },
   {
     "name": "Ark Royal",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Ark_Royal"
   },
   {
     "name": "Implacable",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Implacable"
   },
   {
     "name": "Indomitable",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Indomitable"
   },
   {
     "name": "Audacious",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Audacious"
   }
 ]

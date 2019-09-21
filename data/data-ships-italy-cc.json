@@ -1,54 +1,67 @@
 [
   {
     "name": "Eritrea",
+    "tier": 1,
     "url": "http://wiki.wargaming.net/en/Ship:Eritrea"
   },
   {
     "name": "Nino Bixio",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Nino_Bixio"
   },
   {
     "name": "Taranto",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Taranto"
   },
   {
     "name": "Alberto di Giussano",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Alberto_di_Giussano"
   },
   {
     "name": "Raimondo Montecuccoli",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Raimondo_Montecuccoli"
   },
   {
     "name": "Genova",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Genova"
   },
   {
     "name": "Trento",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Trento"
   },
   {
     "name": "Duca d'Aosta",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Duca_d%27Aosta"
   },
   {
     "name": "Zara",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Zara"
   },
   {
     "name": "Duca degli Abruzzi",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Duca_degli_Abruzzi"
   },
   {
     "name": "Amalfi",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Amalfi"
   },
   {
     "name": "Brindisi",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Brindisi"
   },
   {
     "name": "Venezia",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Venezia"
   }
 ]

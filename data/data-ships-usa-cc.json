@@ -1,114 +1,142 @@
 [
   {
     "name": "Erie",
+    "tier": 1,
     "url": "http://wiki.wargaming.net/en/Ship:Erie"
   },
   {
     "name": "Chester",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Chester"
   },
   {
     "name": "Albany",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Albany"
   },
   {
     "name": "St. Louis",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:St._Louis"
   },
   {
     "name": "Charleston",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Charleston"
   },
   {
     "name": "Phoenix",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Phoenix"
   },
   {
     "name": "Omaha",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Omaha"
   },
   {
     "name": "Marblehead",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Marblehead"
   },
   {
     "name": "Marblehead Lima",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Marblehead_Lima"
   },
   {
     "name": "Pensacola",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Pensacola"
   },
   {
     "name": "Dallas",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Dallas"
   },
   {
     "name": "Atlanta",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Atlanta"
   },
   {
     "name": "New Orleans",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:New_Orleans"
   },
   {
     "name": "Helena",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Helena"
   },
   {
     "name": "Indianapolis",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Indianapolis"
   },
   {
     "name": "Boise",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Boise"
   },
   {
     "name": "Flint",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Flint"
   },
   {
     "name": "Baltimore",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Baltimore"
   },
   {
     "name": "Cleveland",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Cleveland"
   },
   {
     "name": "Wichita",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Wichita"
   },
   {
     "name": "AL Montpelier",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:AL_Montpelier"
   },
   {
     "name": "Buffalo",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Buffalo"
   },
   {
     "name": "Seattle",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Seattle"
   },
   {
     "name": "Alaska",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Alaska"
   },
   {
     "name": "Des Moines",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Des_Moines"
   },
   {
     "name": "Worcester",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Worcester"
   },
   {
     "name": "Puerto Rico",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/index.php?title=Ship:Puerto_Rico&action=edit&redlink=1"
   },
   {
     "name": "Salem",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Salem"
   }
 ]

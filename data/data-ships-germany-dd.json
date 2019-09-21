@@ -1,46 +1,57 @@
 [
   {
     "name": "V-25",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:V-25"
   },
   {
     "name": "G-101",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:G-101"
   },
   {
     "name": "V-170",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:V-170"
   },
   {
     "name": "T-22",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:T-22"
   },
   {
     "name": "Ernst Gaede",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Ernst_Gaede"
   },
   {
     "name": "T-61",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:T-61"
   },
   {
     "name": "Leberecht Maass",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Leberecht_Maass"
   },
   {
     "name": "Z-39",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Z-39"
   },
   {
     "name": "Z-23",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Z-23"
   },
   {
     "name": "Z-46",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Z-46"
   },
   {
     "name": "Z-52",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Z-52"
   }
 ]

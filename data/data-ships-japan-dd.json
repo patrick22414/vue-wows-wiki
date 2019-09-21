@@ -1,110 +1,137 @@
 [
   {
     "name": "Tachibana",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Tachibana"
   },
   {
     "name": "Umikaze",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Umikaze"
   },
   {
     "name": "Tachibana Lima",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Tachibana_Lima"
   },
   {
     "name": "Wakatake",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Wakatake"
   },
   {
     "name": "Isokaze",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Isokaze"
   },
   {
     "name": "Minekaze",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Minekaze"
   },
   {
     "name": "Fūjin",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:F%C5%ABjin"
   },
   {
     "name": "Kamikaze",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Kamikaze"
   },
   {
     "name": "Kamikaze R",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Kamikaze_R"
   },
   {
     "name": "Mutsuki",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Mutsuki"
   },
   {
     "name": "Fubuki",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Fubuki"
   },
   {
     "name": "Hatsuharu",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Hatsuharu"
   },
   {
     "name": "Shinonome",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Shinonome"
   },
   {
     "name": "Akatsuki",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Akatsuki"
   },
   {
     "name": "Shiratsuyu",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Shiratsuyu"
   },
   {
     "name": "Yūdachi",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Y%C5%ABdachi"
   },
   {
     "name": "Akizuki",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Akizuki"
   },
   {
     "name": "Kagerō",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Kager%C5%8D"
   },
   {
     "name": "Asashio",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Asashio"
   },
   {
     "name": "Asashio B",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Asashio_B"
   },
   {
     "name": "HSF Harekaze",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:HSF_Harekaze"
   },
   {
     "name": "AL Yukikaze",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:AL_Yukikaze"
   },
   {
     "name": "Yūgumo",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Y%C5%ABgumo"
   },
   {
     "name": "Kitakaze",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Kitakaze"
   },
   {
     "name": "Shimakaze",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Shimakaze"
   },
   {
     "name": "Harugumo",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Harugumo"
   },
   {
     "name": "Hayate",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Hayate"
   }
 ]

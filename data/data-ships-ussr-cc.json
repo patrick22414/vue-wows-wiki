@@ -1,98 +1,122 @@
 [
   {
     "name": "Orlan",
+    "tier": 1,
     "url": "http://wiki.wargaming.net/en/Ship:Orlan"
   },
   {
     "name": "Diana",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Diana"
   },
   {
     "name": "Diana Lima",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Diana_Lima"
   },
   {
     "name": "Novik",
+    "tier": 2,
     "url": "http://wiki.wargaming.net/en/Ship:Novik"
   },
   {
     "name": "Aurora",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Aurora"
   },
   {
     "name": "Bogatyr",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Bogatyr"
   },
   {
     "name": "Oleg",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Oleg"
   },
   {
     "name": "Varyag",
+    "tier": 3,
     "url": "http://wiki.wargaming.net/en/Ship:Varyag"
   },
   {
     "name": "Svietlana",
+    "tier": 4,
     "url": "http://wiki.wargaming.net/en/Ship:Svietlana"
   },
   {
     "name": "Murmansk",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Murmansk"
   },
   {
     "name": "Kirov",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Kirov"
   },
   {
     "name": "Krasny Krym",
+    "tier": 5,
     "url": "http://wiki.wargaming.net/en/Ship:Krasny_Krym"
   },
   {
     "name": "Budyonny",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Budyonny"
   },
   {
     "name": "Molotov",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Molotov"
   },
   {
     "name": "Admiral Makarov",
+    "tier": 6,
     "url": "http://wiki.wargaming.net/en/Ship:Admiral_Makarov"
   },
   {
     "name": "Shchors",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Shchors"
   },
   {
     "name": "Lazo",
+    "tier": 7,
     "url": "http://wiki.wargaming.net/en/Ship:Lazo"
   },
   {
     "name": "Chapayev",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Chapayev"
   },
   {
     "name": "Mikhail Kutuzov",
+    "tier": 8,
     "url": "http://wiki.wargaming.net/en/Ship:Mikhail_Kutuzov"
   },
   {
     "name": "Dmitri Donskoi",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Dmitri_Donskoi"
   },
   {
     "name": "Kronshtadt",
+    "tier": 9,
     "url": "http://wiki.wargaming.net/en/Ship:Kronshtadt"
   },
   {
     "name": "Moskva",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Moskva"
   },
   {
     "name": "Stalingrad",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Stalingrad"
   },
   {
     "name": "Smolensk",
+    "tier": 10,
     "url": "http://wiki.wargaming.net/en/Ship:Smolensk"
   }
 ]
